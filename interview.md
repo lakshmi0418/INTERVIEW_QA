@@ -1,6 +1,17 @@
 #INTERVIEW QUESTIONS
 
 ```c
+
+what is memory management in c?
+behavior of signals?
+mmu and smu difference?
+why bitwise operator using embedded?
+explain pipein?why pipe used to related not in unrelated?
+size of fd?
+write a program race condition?
+10.write a program array even odd using two pointers
+number of zeros in a binary number?
+
 //MAX LENGTH SUB STRING WITHOUT DUPLICATES
 #include<iostream>
 #include<cstring>
