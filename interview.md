@@ -1,7 +1,7 @@
 #INTERVIEW QUESTIONS
 
 ```c
-//MAX LENGTH STRING WITHOUT DUPLICATES
+//MAX LENGTH SUB STRING WITHOUT DUPLICATES
 #include<iostream>
 #include<cstring>
 #include<vector>
